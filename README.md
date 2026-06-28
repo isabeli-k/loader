@@ -21,7 +21,6 @@ It operates directly on binary data using `fopen`, `fread`, `fwrite`, and `fseek
 - Add BMP format validation (magic number check)
 - Add dynamic memory allocation for pixel buffer
 - Support for different bit depths (24-bit / 32-bit BMP)
-- Add image manipulation functions (invert, grayscale, etc.)
 - Replace exit() with proper error handling system
 
 ### Disclaimer:
